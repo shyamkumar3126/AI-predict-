@@ -57,7 +57,7 @@ export const ScanProgress: React.FC<ScanProgressProps> = ({ logs, currentModule 
       <div className="bg-black/90 rounded-lg overflow-hidden border border-slate-700 shadow-2xl font-mono text-sm">
         <div className="bg-slate-800 px-4 py-2 flex items-center gap-2 border-b border-slate-700">
           <Terminal size={14} className="text-slate-400" />
-          <span className="text-slate-400">NetGuard_Console — Live Trace</span>
+          <span className="text-slate-400">WebGuard_Console — Live Trace</span>
         </div>
         <div 
           ref={scrollRef}

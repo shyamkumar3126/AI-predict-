@@ -1,5 +1,5 @@
 {
-  "name": "NetGuard AI",
+  "name": "WebGuard",
   "description": "An AI-driven network vulnerability scanner visualization tool that simulates the scanning, feature extraction, and risk analysis process using the Gemini API.",
   "requestFramePermissions": []
 }
